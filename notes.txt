@@ -1,0 +1,11 @@
+tag: 0x0F
+Length: Unknown
+Undefined: 0x01
+Nearby Actions Type: Either [0x01] = "Apple TV Setup" OR [0x06] = "Apple TV Pair"
+Nearby Action Device Class: [0xC] ="AppleTV"
+
+
+
+
+Action Type Codes 0x01 Apple TV Tap-To-Setup OR 0x06 Apple TV Pair
+Auth tag: (3 bytes) AES 256 GCM mode 
