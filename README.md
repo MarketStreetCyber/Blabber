@@ -1,8 +1,10 @@
 # Blabber
-You know that "friend" that just won't stop talking!? That's true for a lot of our devices as well. This repo provides a suite of tools that sniff, impersonate, and track devices via Bluetooth, WiFi, and other protocols. 
+You know that "friend" that just won't stop talking!? That's true for a lot of our devices as well. This repo provides a PoC python tool in response to the 2023 DEFCON "Setup this TV" madness.
+
+**UPDATE**: We are no longer developing additional features for Blabber. After our initial PoCs, we found that the AppleJuice project was diving deep into this so we decided to shift our focus! We highly recommend you checking out there project for Bluetooth Continuity spoofing if you have not done so already.
 
 # Motivation
-@ DEFCON 2023, event goers were intrigued by the constant request being broadcasted to setup a nearby AppleTV. We were no exception to this and knew we had to figure out how it was being accmplished ASAP. After much research, we found a few PoCs that were similar in nature, but none actually displayed the AppleTV setup functionality displayed at DEFCON. We wanted to fix that and we did! We plan to create other tools surrounding wireless sniffing, impersonation, and tracking.
+@ DEFCON 2023, event goers were intrigued by the constant request being broadcasted to setup a nearby AppleTV. We were no exception to this and knew we had to figure out how it was being accomplished ASAP. After much research, we found a few PoCs that were similar in nature, but none actually displayed the AppleTV setup functionality displayed at DEFCON. We wanted to fix that and we did! We plan to create other tools surrounding wireless sniffing, impersonation, and tracking.
 
 # Impersonate
 
